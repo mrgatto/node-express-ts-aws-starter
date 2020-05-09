@@ -1,4 +1,4 @@
-# Stencil Component Starter
+# Typescript Node.js/Express/AWS SDK Starter
 
 This is a NodeJS starter project with Express and AWS SDK Client written in TypeScript.
 
