@@ -1,6 +1,6 @@
 # Typescript Node.js/Express/AWS SDK Starter
 
-This is a NodeJS starter project with Express and AWS SDK Client written in TypeScript.
+This is a Node.js Starter Project with Express and AWS SDK Client written in TypeScript.
 
 ## Getting Started
 
