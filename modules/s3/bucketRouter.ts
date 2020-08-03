@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { BucketController } from './bucketsController';
+import { BucketController } from './bucketController';
 
 export class BucketRouter {
 

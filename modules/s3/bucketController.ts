@@ -1,5 +1,5 @@
 import { NextFunction, Request, Response } from 'express';
-import { BucketsService } from './bucketsService';
+import { BucketsService } from './bucketService';
 
 export class BucketController {
 
