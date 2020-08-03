@@ -1,4 +1,4 @@
-import { AWSError } from "aws-sdk";
+import { AWSError } from 'aws-sdk';
 
 export class GenericError {
 

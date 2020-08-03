@@ -1,4 +1,4 @@
 export class Bucket {
-    name: string;
-    files: string[];
+    name?: string;
+    files?: string[];
 }
